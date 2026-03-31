@@ -1,6 +1,6 @@
 # Emovector (IndexTTS2) scale sweep -- mixed-emotion synthesis
 
-| Dataset | scale | E-SIM**↑** | TEP**↑** | ρ**↑** | H-Rate**↑** | S-SIM**↑** | WER**↓** |
+| Dataset | scale | E-SIM↑ | TEP↑ | ρ↑ | H-Rate↑ | S-SIM↑ | WER↓ |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **CREMA-D** | 0.1 | 0.754 | 0.045 | 0.007 | 0.663 | **0.865** | 5.74 |
 |  | 0.2 | 0.755 | 0.053 | 0.082 | 0.693 | 0.863 | 5.72 |
