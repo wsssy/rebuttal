@@ -1,4 +1,4 @@
-# EmoSteer-TTS in Cosyvoice2 using the sama data as cocoemo
+# EmoSteer-TTS in Cosyvoice2 using the same data as cocoemo
 
 ## mixed-emotion evaluation on CREMA-D 
 
